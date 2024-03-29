@@ -1,1 +1,2 @@
-# number-plate-detection-and-recognition-using-yolo-v8-easyocr
+# Number-Plate-Detection-and-Recognition-using-YOLO-V8-EasyOCR
+Created an model using YOLOv8 model and Open CV .YOLOv8 is the latest version of the YOLO (You Only Look Once) AI models developed by Ultralytics.
